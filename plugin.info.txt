@@ -1,0 +1,7 @@
+base   htmlsafe
+author Danny Lin
+email  danny0838@pchome.com.tw
+date   2010-12-22
+name   HTML Safe
+desc   Allows <html> tag usage with security concerned markups excluded
+url    http://www.dokuwiki.org/plugin:htmlsafe
